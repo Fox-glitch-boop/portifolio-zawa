@@ -1,0 +1,19 @@
+##index.html
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta chansel="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Phoenix</title>
+</head>
+<body>
+
+</body>
+</html>
+
+##style.css
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Da+2:wght@600;700;800&family=Josefin+Slab:ital,wght@0,300;0,400;0,700;1,300&family=Mulish:ital,wght@1,200&display=swap');
+
+
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css")
